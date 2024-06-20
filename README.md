@@ -11,6 +11,7 @@ Aprendi até o momento que:
 6. Verificar o repositório que será salvo (Git Remote -v)
 7. Armazenar no repositório remoto
     7. Porém, utilizo o Linux, logo, não tive como salvar como o ensinado, pra isso, tive que baixar o Github Desktop, e por lá, dá pra fazer tudo meu amigo, inclusive de maneira muito mais simples.
+    8. Aprendi, no próprio Senai, como passar da fase que travei, acessando um token com uma senha acavalada, mas funcional.
 
    Encontrei uns arquivos e assisti umas vídeo aulas que me ajudaram no entendimento de Git e Github
    
